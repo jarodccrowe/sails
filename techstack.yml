@@ -2,7 +2,7 @@ repo_name: jarodccrowe/sails
 report_id: fa05f3063e76b1e321d370e269382333
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-18T02:44:55+00:00'
+timestamp: '2024-02-29T19:29:56+00:00'
 requested_by: jarodccrowe
 provider: github
 branch: master
@@ -150,7 +150,7 @@ tools:
   last_updated_by: Mike McNeil
   last_updated_on: 2012-09-03 02:22:50.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 1.1.0
   license: MIT
